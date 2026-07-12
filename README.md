@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Adithya Acharya</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
 <h3 align="center">🚀 Aspiring Software Developer | MCA Student | Full-Stack Developer</h3>
 
 <p align="center">
