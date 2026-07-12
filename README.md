@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:16A34A,100:22C55E&height=240&section=header&text=Adithya%20Acharya&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<h1 align="center">👋 Hi, I'm <strong>Adithya Acharya</strong></h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </p>
